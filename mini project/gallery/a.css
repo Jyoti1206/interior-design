@@ -1,0 +1,42 @@
+.a1{
+    position: absolute;
+    left: 20px;
+    top: 350px;
+    border-radius: 25px;
+}
+
+
+.a2{
+    position: absolute;
+    left: 720px;
+    top: 350px;
+    border-radius: 25px;
+}
+
+.a3{
+    position: absolute;
+    left: 20px;
+    top: 950px;
+    border-radius: 25px;
+}
+
+
+.a5{
+    position: absolute;
+    left: 720px;
+    top: 950px;
+    border-radius: 25px;
+}
+
+.a6{
+    position: absolute;
+    left: 325px;
+    top: 650px;
+    border-radius: 25px;
+}
+
+.a7{
+    position: absolute;
+    left: 325px;
+    top: 1250px;
+}
